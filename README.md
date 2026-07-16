@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alexander
 
-<!--
-**alexander-christev/alexander-christev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High School developer interested in AI, reinforcement learning, and intelligent systems.
 
-Here are some ideas to get you started:
+## Current Focus
+- Reinforcement learning environments
+- AI agents
+- Mathematical modelling
+- Game-playing AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previous Work
+- AI agents for UNO and Blokus
+- AI agent development internship at an investment consultancy
+
+## Projects
+Coming soon...
