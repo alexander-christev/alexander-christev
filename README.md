@@ -1,16 +1,24 @@
 # Hi, I'm Alexander
 
-High School developer interested in AI, reinforcement learning, and intelligent systems.
+I'm a developer interested in artificial intelligence, reinforcement learning, and mathematical modelling.
 
-## Current Focus
-- Reinforcement learning environments
-- AI agents
-- Mathematical modelling
-- Game-playing AI
+## Interests
+
+- Reinforcement learning
+- Game-playing agents
+- AI systems
+- Algorithm design
 
 ## Previous Work
-- AI agents for UNO and Blokus
-- AI agent development internship at an investment consultancy
 
-## Projects
-Coming soon...
+- Built AI agents for UNO and Blokus
+- Completed an AI agent development internship
+
+## Current Projects
+
+### General Game AI Framework
+Building systems for training and evaluating game-playing agents.
+
+## Technologies
+
+Python • PyTorch • JavaScript • Git • Matplotlib
